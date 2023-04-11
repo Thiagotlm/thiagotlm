@@ -1,4 +1,4 @@
-## Olá! eu sou o Thiagotlm
+## Olá! Eu sou o Thiago
 
 - 🔭 Hoje trabalho com Infraestrutura de TI
 - 🌱 Estudando desenvolvimento Front-end
