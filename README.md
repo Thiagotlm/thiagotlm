@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Infraestrutura de TI
 - 🌱 Estudando desenvolvimento Front-end
-- 😄 Pronouns: ele/dele
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagotlm&show_icons=true&theme=radical)
