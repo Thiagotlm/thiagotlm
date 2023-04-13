@@ -25,7 +25,7 @@
     <a href = "https://www.linkedin.com/in/thiago-mauricio-570a68136/">
       <img width="25" src="linkedin.svg">
     </a>
-       <a href = "https://www.instagram.com/thiagolmauricio/">
+       <a href = "https://www.instagram.com/lipeasafee/">
       <img width="25" src="instagram.png">
     </a>
 </div>
