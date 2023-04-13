@@ -22,7 +22,7 @@
     <a href = "mailto: Thiagom.aae@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/filipe-asafe-abreu-matos-087350216/](https://www.linkedin.com/in/thiago-mauricio-570a68136/">
+    <a href = "https://https://www.linkedin.com/in/thiago-mauricio-570a68136/">
       <img width="25" src="linkedin.svg">
     </a>
        <a href = "https://instagram.com/thiagolmauricio">
