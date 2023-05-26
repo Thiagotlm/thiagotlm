@@ -36,6 +36,8 @@
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
   
   <div>
+    <footer>
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#fff&height=120&section=footer"/>
-    <div/>
+    <footer/>
+      <div/>
   
