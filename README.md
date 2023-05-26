@@ -1,4 +1,4 @@
-<h3> Olá, eu sou Thiago Mauricio! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
+<h3> Olá, eu sou Thiago Mauricio! Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
 <h4></h4>   
            
 <h6> 💫 #desenvolvimentoweb, #computação, e #tecnologia </h6>
