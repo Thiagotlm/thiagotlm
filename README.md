@@ -32,6 +32,10 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#fff&height=120&section=footer"/>
+  
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
+  
+  <div>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#fff&height=120&section=footer"/>
+    <div/>
   
