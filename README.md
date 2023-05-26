@@ -1,4 +1,7 @@
-## Faaaala pessoal, Thiago Aqui!
+<h3> Olá, eu sou Thiago Mauricio! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
+<h4></h4>   
+           
+<h6> 💫 #desenvolvimentoweb, #computação, e #tecnologia </h6>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44E3D3&height=120&section=header"/>
 
