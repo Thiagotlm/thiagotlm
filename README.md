@@ -40,6 +40,9 @@
 </div>
   
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
+      
+ <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+ <img src="https://github.com/Thiagotlm/Thiagotlm/blob/main/Fire-Pixel.gif" width="220">
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44E3D3&height=120&section=footer"/>
         
