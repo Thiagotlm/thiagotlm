@@ -1,6 +1,6 @@
 ## Faaaala pessoal, Thiago Aqui!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=520120&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B57114&height=120&section=header"/>
 
 <div>
   
@@ -35,6 +35,6 @@
   
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=520120&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B57114&height=120&section=footer"/>
         
   
