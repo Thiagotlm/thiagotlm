@@ -23,7 +23,7 @@
     <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)"><img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <a href="https://pt.wikipedia.org/wiki/HTML5"><img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Thiago-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"><img align="center" alt="Thiago-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    </div>
     
   
