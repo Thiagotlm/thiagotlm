@@ -13,7 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiagotlm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagotlm&layout=compact&langs_count=16&theme=tokyonight"/>
    </div>
-           
+ [![trophy](https://github-profile-trophy.vercel.app/?username=thiagotlm)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <br>
 
@@ -39,8 +39,7 @@
        <a href = "https://www.instagram.com/thiagolmauricio/">
       <img width="25" src="instagram.png">
     </a>
-</div><hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=thiagotlm)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
                 
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
   <div align="center">
