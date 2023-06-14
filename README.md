@@ -11,6 +11,8 @@
   <a href="[https://github.com/Thiagotlm](https://github.com/Thiagotlm)"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiagotlm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagotlm&layout=compact&langs_count=16&theme=tokyonight"/>
+    <div> ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Thiagotlm&theme=flat&no-frame=false&no-bg=false&margin-w=4)</div>
 </div>
 </div>
 <br>
@@ -41,8 +43,7 @@
   
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
   <div align="center">
-   <div> ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thiagotlm&theme=flat&no-frame=false&no-bg=false&margin-w=4)</div>
+  
   
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
   <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
