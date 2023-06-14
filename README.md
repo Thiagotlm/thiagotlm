@@ -39,7 +39,8 @@
        <a href = "https://www.instagram.com/thiagolmauricio/">
       <img width="25" src="instagram.png">
     </a>
-</div>
+</div><hr>
+[![trophy](https://github-profile-trophy.vercel.app/?username=thiagotlm)](https://github.com/ryo-ma/github-profile-trophy)
                 
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
   <div align="center">
