@@ -41,8 +41,9 @@
   
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
   <div align="center">
-   ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thiagotlm&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+   <div> ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Thiagotlm&theme=flat&no-frame=false&no-bg=false&margin-w=4)</div>
+  
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
   <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
             
