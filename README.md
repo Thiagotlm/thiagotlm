@@ -38,8 +38,8 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-                ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thiagotlm&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+               ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thiagotlm&theme=flat&no-frame=false&no-bg=false&margin-w=4) 
   
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
   <div align="center">
