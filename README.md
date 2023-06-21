@@ -23,8 +23,7 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+  
     <h1 align="center">Melhores Tecnologias <3</h1>
     <a href="https://pt.wikipedia.org/wiki/JavaScript" title="Sobre o JS"><img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)" title="Sobre o React"><img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
