@@ -23,12 +23,13 @@
     <h1 align="center">Melhores Tecnologias <3</h1>
     <a href="https://pt.wikipedia.org/wiki/JavaScript" title="Sobre o JS"><img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)" title="Sobre o React"><img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     <a href="https://pt.wikipedia.org/wiki/NodeJs" title="Sobre o NodeJs"><img align="center" alt="Thiago-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
     <a href="https://pt.wikipedia.org/wiki/HTML5" title="Sobre o HTML5"><img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" title="Sobre o CSS"><img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code" title="Sobre o VS Code"><img align="center" alt="Thiago-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
        <a href="https://pt.wikipedia.org/wiki/Figma" title="Sobre o Figma"><img align="center" alt="Thiago-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
       <a href="https://pt.wikipedia.org/wiki/Canva" title="Sobre o Canva"><img align="center" alt="Thiago-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-      <a href="https://pt.wikipedia.org/wiki/NodeJs" title="Sobre o NodeJs"><img align="center" alt="Thiago-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />           
+                 
    </div>
     
   
