@@ -28,7 +28,7 @@
       <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code" title="Sobre o VS Code"><img align="center" alt="Thiago-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
        <a href="https://pt.wikipedia.org/wiki/Figma" title="Sobre o Figma"><img align="center" alt="Thiago-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
       <a href="https://pt.wikipedia.org/wiki/Canva" title="Sobre o Canva"><img align="center" alt="Thiago-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-      <a href="https://pt.wikipedia.org/wiki/Node" title="Sobre o Node"><img align="center" alt="Thiago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />           
+      <a href="https://pt.wikipedia.org/wiki/NodeJs" title="Sobre o NodeJs"><img align="center" alt="Thiago-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />           
    </div>
     
   
