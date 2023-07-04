@@ -30,7 +30,8 @@
        <a href="https://pt.wikipedia.org/wiki/Figma" title="Sobre o Figma"><img align="center" alt="Thiago-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
       <a href="https://pt.wikipedia.org/wiki/Canva" title="Sobre o Canva"><img align="center" alt="Thiago-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
        <a href="https://pt.wikipedia.org/wiki/Bootstrap" title="Sobre o Bootstrap"><img align="center" alt="Thiago-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
-       <a href="https://pt.wikipedia.org/wiki/Git" title="Sobre o Git"><img align="center" alt="Thiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />           
+       <a href="https://pt.wikipedia.org/wiki/Git" title="Sobre o Git"><img align="center" alt="Thiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+       <a href="https://pt.wikipedia.org/wiki/Github" title="Sobre o Github"><img align="center" alt="Thiago-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />           
    </div>
     
   
