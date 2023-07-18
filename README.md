@@ -70,15 +70,16 @@
        <a href = "https://www.instagram.com/thiagolmauricio/">
       <img width="25" src="instagram.png">
     </a>
-</div>
-   
-![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
- <div align="center">
+</div> <br><br><br>
  
-  
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagotlm&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao"/> <br><br>
+<img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=thiagotlm&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+ 
+<br/>
+<div align="center">
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
-  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
-            
+  <img align="center" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
+</div>          
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44E3D3&height=120&section=footer"/>
         
   
