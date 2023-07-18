@@ -5,8 +5,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44E3D3&height=120&section=header"/>
 
-<div>
-     
             
 <div align="center">
   <a href="[https://github.com/Thiagotlm](https://github.com/Thiagotlm)"> 
