@@ -32,7 +32,7 @@
                
    </div>
     
-  
+  <div>
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: Thiagom.aae@gmail.com">
       <img width="30" src="gmail.svg">
@@ -44,10 +44,10 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-                
+   
 ![Snake animation](https://github.com/thiagotlm/thiagotlm/blob/output/github-contribution-grid-snake.svg)
-  <div align="center">
-  
+ <div align="center">
+ 
   
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
   <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
