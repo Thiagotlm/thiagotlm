@@ -1,10 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44E3D3&height=120&section=header"/>
 <h3> Olá, eu sou Thiago Mauricio! Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
 <h4></h4>   
            
 <h6> 💫 #desenvolvimentoweb, #computação, e #tecnologia </h6>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44E3D3&height=120&section=header"/>
-
 <br/><br/>
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=thiagotlm&repo=thiagotlm&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
