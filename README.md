@@ -12,7 +12,7 @@
 
 <ul>
   <li>🤩️ Apaixonado por Programação, Filmes e Música.</li>
-  <li>💻 <b>Trabalho</b> na <a href="https://www.eletronuclear.gov.br/Paginas/default.aspx" target="_blank">Eletronuclear</a> e já estudei na <a href="https://www.dio.me" target="_blank">DIO<a/>.</li>
+  <li>💻 <b>Trabalho</b> na <a href="https://ctctech.com.br" target="_blank">CTC</a> e já estudei na <a href="https://www.dio.me" target="_blank">DIO<a/>.</li>
   <li>🔮 Estou me especializando em Front-end e back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
   <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
   <li> Tenho inglês básico.</li>
