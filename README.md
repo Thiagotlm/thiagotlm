@@ -54,7 +54,7 @@
    <h1 align="center">Tecnologias e Ferramentas <3</h1>
 
    <a href="https://www.zabbix.com/" title="Zabbix">
-      <img align="center" height="40" width="40" alt="Zabbix" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg">
+      <img align="center" height="40" width="40" alt="Zabbix" src="https://www.devopsschool.com/trainer/assets/images/zabbix.png">
     </a>
 
    <a href="https://grafana.com/" title="Grafana">
