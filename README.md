@@ -7,7 +7,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=thiagotlm&repo=thiagotlm&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github" height="40px" />
+  
 </div>
 
 <hr/>
