@@ -51,41 +51,41 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="giphy_code.gif">
 
-    <h1 align="center">Tecnologias e Ferramentas <3</h1>
+   <h1 align="center">Tecnologias e Ferramentas <3</h1>
 
-    <a href="https://www.zabbix.com/" title="Zabbix">
+   <a href="https://www.zabbix.com/" title="Zabbix">
       <img align="center" height="40" width="40" alt="Zabbix" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg">
     </a>
 
-    <a href="https://grafana.com/" title="Grafana">
+   <a href="https://grafana.com/" title="Grafana">
       <img align="center" height="40" width="40" alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
     </a>
 
-    <a href="https://www.linux.org/" title="Linux">
+   <a href="https://www.linux.org/" title="Linux">
       <img align="center" height="40" width="40" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     </a>
 
-    <a href="https://www.python.org/" title="Python">
+   <a href="https://www.python.org/" title="Python">
       <img align="center" height="40" width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     </a>
 
-    <a href="https://www.gnu.org/software/bash/" title="Bash">
+   <a href="https://www.gnu.org/software/bash/" title="Bash">
       <img align="center" height="40" width="40" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
     </a>
 
-    <a href="https://www.mysql.com/" title="MySQL">
+   <a href="https://www.mysql.com/" title="MySQL">
       <img align="center" height="40" width="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     </a>
 
-    <a href="https://mariadb.org/" title="MariaDB">
+   <a href="https://mariadb.org/" title="MariaDB">
       <img align="center" height="40" width="40" alt="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
     </a>
 
-    <a href="https://git-scm.com/" title="Git">
+   <a href="https://git-scm.com/" title="Git">
       <img align="center" height="40" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </a>
 
-    <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+   <a href="https://code.visualstudio.com/" title="Visual Studio Code">
       <img align="center" height="40" width="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     </a>
 
@@ -94,15 +94,15 @@
   <div>
     <h1 align="center">Redes Sociais</h1>
 
-    <a href="mailto:Thiagom.aae@gmail.com">
+   <a href="mailto:Thiagom.aae@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
 
-    <a href="https://www.linkedin.com/in/thiago-mauricio-570a68136/">
+   <a href="https://www.linkedin.com/in/thiago-mauricio-570a68136/">
       <img width="25" src="linkedin.svg">
     </a>
 
-    <a href="https://www.instagram.com/thiagolmauricio/">
+   <a href="https://www.instagram.com/thiagolmauricio/">
       <img width="25" src="instagram.png">
     </a>
   </div>
@@ -121,6 +121,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44E3D3&height=120&section=footer"/>
-
-        
-  
