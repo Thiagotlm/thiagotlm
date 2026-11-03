@@ -47,9 +47,7 @@
 
 <br/>
 
-<div align="center">
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="giphy_code.gif">
+
 
    <h1 align="center">Tecnologias e Ferramentas <3</h1>
 
